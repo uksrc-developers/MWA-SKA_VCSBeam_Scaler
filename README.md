@@ -54,7 +54,7 @@ ___
 <details>
 <summary>Run the tool</summary>
 
--After activating the environment, open the jupyter notebook using `jupyter lab` or `jupyter notebook` in the command line
+- After activating the environment, open the jupyter notebook using `jupyter lab` or `jupyter notebook` in the command line
 - Then run the cells in the notebook until a plot appears
 - You should be able to interact with this plot using the sliders.
 
