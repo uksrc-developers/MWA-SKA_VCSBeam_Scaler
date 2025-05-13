@@ -1,0 +1,11 @@
+name: MWA_SKA_Requirement_Environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - matplotlib=3.5.1
+  - numpy
+  - jupyterlab
+  - ipympl
+  - notebook  # Needed for classic Jupyter Notebook (optional)
+  - ipywidgets
